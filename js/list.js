@@ -11,8 +11,8 @@ const d = {
 				},
 				{
 
-			"name": "Shitty Tartarus Ez",
-                       "author": "Me",
+			"name": "Shitty Phobos",
+                       "author": "TheRedVirus",
                        "more": "none",
                        "id": 64360108,
                        "pass": "Free to copy",
